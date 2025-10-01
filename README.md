@@ -4,7 +4,7 @@
 ## How to use PenTBox 
 -----------------
 
-https://www.kalilinux.in/2019/05/honeypot.html
+[https://www.kalilinux.in/2019/05/honeypot.html](https://www.kalilinux.in/set-up-honeypot-in-kali-linux-trap-for-hackers/)
 
 <b>This repository is very old.  I even didn't tried it for years. Hope someone send a good PR in Hacktoberfest2021 to update it.[No typo fix, REAL Update]</b>
 
